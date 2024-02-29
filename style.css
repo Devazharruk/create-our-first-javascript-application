@@ -12,3 +12,14 @@ body {
     justify-content: center;
     align-items: center;
 }
+button{
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    border: 0;
+    background-color: azure;
+
+}
